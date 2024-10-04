@@ -8,8 +8,7 @@
     "start": "nodemon app.js",
     "start-server": "node app.js"
   },
-  "author": "Maximilian Schwarzmüller",
-  "license": "ISC",
+  "author": "Surya Prakash M",
   "devDependencies": {
     "nodemon": "^1.18.3"
   },
